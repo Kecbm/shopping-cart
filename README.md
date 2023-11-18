@@ -1,16 +1,16 @@
-## Habilidades
+## Skills
 
-Nesse projeto, eu fui capaz de:
+In this project, I was able to:
 
-- Fazer requisições a uma API *(Application Programming Interface)* do Mercado Livre;
-- Utilizar meus conhecimentos sobre JavaScript, CSS e HTML;
-- Trabalhar com funções assíncronas;
-- Implementar testes unitários.
+- Make requests to an API *(Application Programming Interface)* from Mercado Livre;
+- Use my knowledge of JavaScript, CSS and HTML;
+- Work with asynchronous functions;
+- Implement unit tests.
 
-## O que foi desenvolvido
+## What was developed
 
-Nesse projeto eu desenvolvi um **carrinho de compras** totalmente dinâmico! E o melhor: consumindo dados diretamente de uma **API!** Isso mesmo. Da sigla em inglês _Application Programming Interface_, uma API é um ponto de contato na internet com determinado serviço. Através de **requisições HTTP** a essa API é possível interagir com ela da forma como quem a criou planejou. Aqui usaremos a API do Mercado Livre para buscarmos produtos à venda.
+In this project I developed a completely dynamic **shopping cart**! And the best: consuming data directly from an **API!** That's right. From the English acronym _Application Programming Interface_, an API is a point of contact on the internet with a certain service. Through **HTTP requests** to this API it is possible to interact with it in the way whoever created it planned. Here we will use the Mercado Livre API to search for products for sale.
 
-## Arquivos disponibilizados pela Trybe
+## Files made available by Trybe
 
-As funções createProductImageElement, createCustomElement, createProductItemElement, getSkuFromProductItem e createCartItemElement foram fornecidas pela Trybe.
+The createProductImageElement, createCustomElement, createProductItemElement, getSkuFromProductItem, and createCartItemElement functions were provided by Trybe.
